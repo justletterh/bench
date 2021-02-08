@@ -1,8 +1,6 @@
 <hr />
 
-# BENCH:
-
-<hr />
+# TODO:
 
 - [x] bash runscript
 - [x] python3 div
