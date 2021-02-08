@@ -21,6 +21,6 @@
 - [ ] java processes/uptime
 - [x] tcl div
 - [x] perl credit
-- [ ] visual basic div
+- [x] erlang div
 
 <hr />
