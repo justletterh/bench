@@ -1,6 +1,7 @@
 #!/bin/bash
 SP="$( cd "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
 cd $SP
-rm -f ./divnim ./divi.beam
+rm -f ./divnim ./divi.beam ./Div.class
 nim -o:./divnim c ./div.nim
 erlc -v ./divi.erl
+javac -verbose ./Div.java

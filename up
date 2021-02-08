@@ -6,4 +6,4 @@ clear
 sleep 2
 clear
 ./run
-rm -f ./divnim ./divi.beam
+rm -f ./divnim ./divi.beam ./Div.class

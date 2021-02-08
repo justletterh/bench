@@ -16,6 +16,8 @@ cd $SP
 
 ./div.exs
 
+java Div
+
 ./div.tcl
 ./credit.pl
 erl -noshell -s divi start -s init stop

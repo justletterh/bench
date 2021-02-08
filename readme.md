@@ -18,7 +18,9 @@
 - [x] ruby div
 - [ ] os-info f#
 - [x] elixir div
-- [ ] java processes/uptime
+- [ ] kotlin processes
+- [x] java div
+- [ ] dart uptime
 - [x] tcl div
 - [x] perl credit
 - [x] erlang div
