@@ -1,0 +1,21 @@
+#!/bin/bash
+SP="$( cd "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
+cd $SP
++x ./div.py ./divnim ./div.php ./div.lua ./div.js ./div.rb ./div.tcl ./credit.pl ./div.exs
+./div.py
+
+./divnim
+
+./div.php
+
+./div.lua
+
+./div.js
+
+./div.rb
+
+./div.exs
+
+./div.tcl
+./credit.pl
+erl -noshell -s divi start -s init stop
