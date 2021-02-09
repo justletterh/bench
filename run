@@ -1,9 +1,9 @@
 #!/bin/bash
 SP="$( cd "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
 cd $SP
-+x ./div.py ./divnim ./div.php ./div.lua ./div.js ./div.rb ./div.tcl ./credit.pl ./div.exs
++x ./div.py ./divnim ./div.php ./div.lua ./div.js ./div.rb ./div.tcl ./credit.pl ./div.exs ./title
 ./div.py
-
+./title
 ./divnim
 
 ./div.php

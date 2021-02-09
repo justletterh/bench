@@ -4,7 +4,7 @@
 
 - [x] bash runscript
 - [x] python3 div
-- [ ] c title
+- [x] c title
 - [x] nim div
 - [ ] rust cpu
 - [x] php div
